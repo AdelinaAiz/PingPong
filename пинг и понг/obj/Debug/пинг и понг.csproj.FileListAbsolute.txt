@@ -1,0 +1,10 @@
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\bin\Debug\пинг и понг.exe.config
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\bin\Debug\пинг и понг.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\bin\Debug\пинг и понг.pdb
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг и понг.csprojAssemblyReference.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг_и_понг.Form1.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг_и_понг.Properties.Resources.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг и понг.csproj.GenerateResource.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг и понг.csproj.CoreCompileInputs.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг и понг.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\пинг и понг\пинг и понг\obj\Debug\пинг и понг.pdb
